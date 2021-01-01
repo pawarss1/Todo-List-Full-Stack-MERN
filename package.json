@@ -1,0 +1,20 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "server - API handler",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.11.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sanidhya Pawar",
+  "license": "MIT"
+}
